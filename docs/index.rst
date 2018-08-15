@@ -5,4 +5,5 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   userguide/index
+   navigation/index
+   account/index
