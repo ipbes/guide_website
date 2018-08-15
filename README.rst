@@ -1,4 +1,4 @@
-# ipbeswebdocs https://ipbes-docs.readthedocs.io/
+# ipbes-user-guide https://ipbes-user-guide.readthedocs.io/en/latest/
 
 Read the documentation
 ===========================
@@ -6,6 +6,4 @@ The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Serv
 
 Our mission is to strengthen knowledge foundations for better policy through science, for the conservation and sustainable use of biodiversity, long-term human well-being and sustainable development. To some extent IPBES does for biodiversity what the IPCC does for climate change.
 
-The IPBES website is part of a Web-based Infrastructure system envisioned as an integrated ICT platform that ensures access to the knowledge, information and data needed for producing credible assessments and ensures access to the Platform’s outputs for policy makers, IPBES stakeholders and the general public. The existing landscape of data, information and knowledge needs and services relevant to IPBES is diverse - different information resource types are spread over distributed and heterogeneous databases and repositories and are evolving. This landscape also currently lacks coordination, including indexing and discovery tools. The objective of the Web-based Infrastructure is to address this situation and provide a coordinated approach to support meeting the knowledge, information and data needs of IPBES assessments. The Web-based Infrastructure should achieve this by offering tools and systemic services for discovery, access and use that are fit for purpose, effective and resource efficient. The IPBES Data and Information Management Plan notes that transparency of sources and processes in conducting assessments and the replicability of findings of the assessments are critical for the credibility of the Platform outputs. The Web-based Infrastructure is, therefore, an important platform to deliver on this.
-
-This documentation leverages the power of git to document web functionality and structure of www.ipbes.net to increase transparency, share resources, experience and knowledge. 
+This documentation is meant to help users navigate the website.
