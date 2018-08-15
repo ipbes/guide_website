@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# IPBES website documentation build configuration file, created by
+# IPBES website user guide build configuration file, created by
 # sphinx-quickstart on Tue Aug 26 14:19:49 2014.
 #
 # This file is execfile()d with the current directory set to its
@@ -176,7 +176,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'ipbeswebdocsdoc'
+htmlhelp_basename = 'ipbeswebuserguide'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -196,7 +196,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'ipbeswebdocs.tex', u'IPBES website documentation',
+  ('index', 'ipbeswebdocs.tex', u'IPBES website user guide',
    u'Read the Docs', 'manual'),
 ]
 
@@ -226,7 +226,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'ipbeswebdocs', u'IPBES website documentation',
+    ('index', 'ipbeswebdocs', u'IPBES website user guide',
      [u'Read the Docs'], 1)
 ]
 
@@ -240,8 +240,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'ipbeswebdocs', u'IPBES website documentation',
-   u'Read the Docs', 'ipbeswebdocs', 'One line description of project.',
+  ('index', 'ipbeswebuserguide', u'IPBES website user guide',
+   u'Read the Docs', 'ipbeswebuserguide', 'One line description of project.',
    'Miscellaneous'),
 ]
 
