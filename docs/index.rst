@@ -1,9 +1,12 @@
 IPBES website user guide
-=======================================
+========================
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
-   navigation/index
-   account/index
+   website/index
+   sharepoint/index
+   messaging/index
+   referencing/index
+   msteams/index
