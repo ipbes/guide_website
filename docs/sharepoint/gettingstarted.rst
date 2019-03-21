@@ -1,0 +1,5 @@
+Getting started
+===============
+
+Accepting invitation
+--------------------
