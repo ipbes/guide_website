@@ -7,7 +7,6 @@ SharePoint
    Introduction <introduction>
    Getting started <gettingstarted>
    File sharing <sharing>
-   OneNote <file>
-   Task List <form>
+   OneNote <onenote>
+   Task List <tasks>
    
-
