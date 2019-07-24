@@ -1,7 +1,6 @@
 Zotero
 ======
 
-Contents:
 
 .. toctree::
    :maxdepth: 1
