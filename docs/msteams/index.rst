@@ -5,10 +5,11 @@ Microsoft Teams
    :maxdepth: 1
 
    Introduction <introduction>
+   Files <files>
    OneNote <onenote>
    Tasks <tasks>
    Wiki <wiki>
    Conversations <conversations>
-   Files <files>
+   Resources <resources>
    Contact <contact>
 

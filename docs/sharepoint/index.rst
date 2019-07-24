@@ -1,5 +1,5 @@
 SharePoint
-===================
+===========
 
 .. toctree::
    :maxdepth: 1

@@ -1,9 +1,3 @@
-Github
-======
+Github Contact
+==============
 
-Goals
------
-Standards
----------
-Contact
--------

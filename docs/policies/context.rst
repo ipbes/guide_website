@@ -1,9 +1,3 @@
-Introduction
-============
+Context
+=======
 
-Goals
------
-Standards
----------
-Contact
--------

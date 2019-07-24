@@ -1,9 +1,9 @@
-Github
+Github Desktop
 ======
 
-Goals
+Installation
 -----
-Standards
+Committing
 ---------
 Contact
 -------

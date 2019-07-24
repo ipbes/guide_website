@@ -1,11 +1,10 @@
-Repository
+Policies
 ==========
 
 .. toctree::
    :maxdepth: 1
 
-   Introduction <introduction>
-   GitHub <github>
-   BitBucket <bitbucket>
-   ZENODO <zenodo>
+   Context <context>
+   Responsibilities <responsibilities>
+   Contact <contact>
 

@@ -1,9 +1,3 @@
-Introduction
+Responsibilities
 ============
 
-Goals
------
-Standards
----------
-Contact
--------

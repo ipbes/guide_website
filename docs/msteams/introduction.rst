@@ -1,5 +1,5 @@
-Introduction
-============
+Microsoft Teams
+===============
 
 Goals
 -----
