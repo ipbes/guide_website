@@ -1,5 +1,5 @@
-IPBES website user guide
-========================
+IPBES Expert Guide
+==================
 
 Contents:
 
