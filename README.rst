@@ -11,3 +11,4 @@ This documentation is meant to help users navigate the website.
 RST Syntax
 ==========
 https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html
+http://docutils.sourceforge.net/docs/user/rst/quickref.html
