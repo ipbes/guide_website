@@ -1,7 +1,6 @@
 Mailing list
 ============
 
-Contents:
 
 .. toctree::
    :maxdepth: 1

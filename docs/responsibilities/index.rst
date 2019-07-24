@@ -1,6 +1,6 @@
 Responsibilities
 ================
-Contents:
+
 
 .. toctree::
    :maxdepth: 1

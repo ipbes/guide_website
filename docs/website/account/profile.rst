@@ -1,8 +1,8 @@
 Setting up your profile
 -----------------------
 
-.. image:: ../images/pantheon_workflow.png
-   :alt: Another GIF showing the login process on a DKAN site.
+.. image:: ../images/account_profile.PNG
+   :alt: User profile page.
 
 Once logged in, you'll see your profile page. By clicking the Edit button above your profile image, you can change the details of your account including:
 

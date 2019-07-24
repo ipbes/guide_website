@@ -1,8 +1,6 @@
 GitHub
 ======
 
-Contents:
-
 .. toctree::
    :maxdepth: 1
 

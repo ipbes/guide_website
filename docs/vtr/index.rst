@@ -1,7 +1,6 @@
 Virtual Team Room
 =================
 
-Contents:
 
 .. toctree::
    :maxdepth: 1

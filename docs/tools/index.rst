@@ -1,7 +1,7 @@
 Tools
 =====
 
-Contents:
+
 
 .. toctree::
    :maxdepth: 2
