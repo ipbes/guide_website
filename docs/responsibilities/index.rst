@@ -1,5 +1,6 @@
 Repository
 ==========
+Contents:
 
 .. toctree::
    :maxdepth: 1
