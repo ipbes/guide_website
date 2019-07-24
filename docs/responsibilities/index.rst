@@ -1,5 +1,5 @@
-Repository
-==========
+Responsibilities
+================
 Contents:
 
 .. toctree::
