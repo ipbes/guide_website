@@ -7,3 +7,7 @@ The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Serv
 Our mission is to strengthen knowledge foundations for better policy through science, for the conservation and sustainable use of biodiversity, long-term human well-being and sustainable development. To some extent IPBES does for biodiversity what the IPCC does for climate change.
 
 This documentation is meant to help users navigate the website.
+
+RST Syntax
+==========
+https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html
