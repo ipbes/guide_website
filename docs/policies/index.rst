@@ -7,5 +7,6 @@ Contents:
 
    Context <context>
    Responsibilities <responsibilities>
+   Resources <resources>
    Contact <contact>
 

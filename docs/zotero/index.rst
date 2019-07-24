@@ -8,5 +8,6 @@ Contents:
 
    Introduction <introduction>
    Search <search>
-   Contact <contact>
    Resources <resources>
+   Contact <contact>
+  

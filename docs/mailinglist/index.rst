@@ -9,4 +9,5 @@ Contents:
    Introduction <introduction>
    Subscribe <subscribe>
    Unsubscribe <unsubscribe>
+   Contact <contact>
 

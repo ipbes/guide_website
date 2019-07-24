@@ -8,3 +8,4 @@ Contents:
 
    account/index
    navigation/index
+   Contact <contact>
