@@ -5,7 +5,7 @@ For your account details, you may receive an automated email with a link and fur
 
 Access the site and log in/log out
 
-.. image:: ../website/images/account_login.PNG
+.. image:: ../images/account_login.PNG
    :alt: User login.
 
 Get to the IPBES site and log in by either:
@@ -15,12 +15,12 @@ Get to the IPBES site and log in by either:
  
 If you don't remember or can't find your password you can get a new password by clicking the Request new password button.
 
-.. image:: ../website/images/account_password.PNG
+.. image:: ../images/account_password.PNG
    :alt: Password reset.
 
 Use the login information provided to access the site and your profile. You'll see your most recent content, your profile details, and your profile image.
 
-.. image:: ../website/images/account_profile.PNG
+.. image:: ../images/account_profile.PNG
    :alt: Profile page for a user named "secretariat" displaying their login information and list of uploaded content.
 
 When you're done adding and editing content on the site, you'll want to make sure you log out to avoid security risks. You can log out from anywhere on the site by using either of the buttons shown in the picture below.
