@@ -7,4 +7,5 @@ General
 
    Links <links>
    Frequently asked questions <faq>
+   Acknowledgement <acknowledgement>
 
