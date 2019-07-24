@@ -1,11 +1,11 @@
-Repository
-==========
+GitHub
+======
 
 .. toctree::
    :maxdepth: 1
 
    Introduction <introduction>
-   GitHub <github>
-   BitBucket <bitbucket>
-   ZENODO <zenodo>
+   Desktop application <githubdesktop>
+   Web application <githubweb>
+   Contact <contact>
 

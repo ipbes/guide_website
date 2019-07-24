@@ -1,11 +1,9 @@
-Repository
-==========
+General
+=========
 
 .. toctree::
    :maxdepth: 1
 
-   Introduction <introduction>
-   GitHub <github>
-   BitBucket <bitbucket>
-   ZENODO <zenodo>
+   Links <links>
+   Frequently asked questions <faq>
 

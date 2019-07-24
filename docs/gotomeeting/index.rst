@@ -1,11 +1,9 @@
-Repository
+GoToMeeting
 ==========
 
 .. toctree::
    :maxdepth: 1
 
    Introduction <introduction>
-   GitHub <github>
-   BitBucket <bitbucket>
-   ZENODO <zenodo>
+   Contact <contact>
 

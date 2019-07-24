@@ -1,4 +1,4 @@
-Introduction
+GoToMeeting
 ============
 
 Goals

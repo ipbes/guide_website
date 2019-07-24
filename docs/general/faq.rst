@@ -1,9 +1,3 @@
-Introduction
-============
+FAQ
+===
 
-Goals
------
-Standards
----------
-Contact
--------
