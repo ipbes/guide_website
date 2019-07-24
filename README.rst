@@ -1,4 +1,4 @@
-# ipbes-user-guide https://ipbes-user-guide.readthedocs.io/en/latest/
+# ipbes-expert-guide https://ipbes-user-guide.readthedocs.io/en/latest/
 
 Read the documentation
 ===========================

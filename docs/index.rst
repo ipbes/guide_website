@@ -5,8 +5,6 @@ This guide has been developed as a resource for experts that have been selected 
 
 .. _policy: https://www.ipbes.net
 
-Contents:
-
 .. toctree::
    :maxdepth: 2
 

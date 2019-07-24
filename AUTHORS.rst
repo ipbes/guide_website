@@ -1,7 +1,6 @@
 Authors
 -------
 
-* Benedict Omare
-* Anne Mwaura
+Secretariat of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services
 
 
