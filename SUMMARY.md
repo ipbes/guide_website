@@ -26,23 +26,21 @@
 * [MS Teams](ms-teams.md)
 * [Slack](slack.md)
 * [Mailchimp](mailchimp.md)
-* [Zotero](zotero.md)
 * [GoTo Meeting](goto-meeting.md)
 * [Zoom](zoom.md)
-* [Zenodo](zenodo.md)
 * [Contact](contact.md)
 * [GitHub](github.md)
 
 ## Repositories
 
-* [Untitled](repositories/untitled.md)
+* [Zenodo](repositories/untitled.md)
 
 ## Mailing and messaging
 
-* [Untitled](mailing-and-messaging/untitled.md)
+* [Mailchimp](mailing-and-messaging/untitled.md)
 * [Untitled](untitled.md)
 
 ## Bibliography
 
-* [Untitled](bibliography/untitled.md)
+* [Zotero](bibliography/untitled.md)
 
