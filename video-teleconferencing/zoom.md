@@ -15,7 +15,7 @@ Zoom is a video conferencing tool used for meetings and webinars. Meetings and w
 
 ### Sign in and join a meeting 
 
-Participants can join a meeting by clicking the provided meeting link or going to [join.zoom.us](https://zoom.us/join) and entering the meeting ID. 
+Participants can join a meeting by clicking the provided meeting link or going to [join.zoom.us](https://zoom.us/join) and entering the meeting ID provided in the invitation email. 
 
 Before joining a Zoom meeting on a computer or mobile device, you can download the Zoom app from the [Zoom download center](https://zoom.us/download). Otherwise, you will be prompted to download and install Zoom when you click a join link. \([learn more](https://support.zoom.us/hc/en-us/articles/201362193-How-Do-I-Join-A-Meeting-)\). 
 
