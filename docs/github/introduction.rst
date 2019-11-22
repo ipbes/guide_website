@@ -1,9 +1,0 @@
-Github
-======
-
-Goals
------
-Standards
----------
-Contact
--------
