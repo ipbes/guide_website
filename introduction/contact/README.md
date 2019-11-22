@@ -4,7 +4,6 @@ If you're facing any issue with IPBES IT services and tools, you can submit a su
 
 You can also reach us by getting in touch with the secretariat through:
 
-
 ## Address
 
 IPBES Secretariat
@@ -19,15 +18,15 @@ Germany.
 
 ## Facebook
 
-https://facebook.com/ipbes
+[https://facebook.com/ipbes](https://facebook.com/ipbes)
 
 ## Twitter
 
-[https://twitter.com/IPBES](https://twitter.com/IPBES) 
+[https://twitter.com/IPBES](https://twitter.com/IPBES)
 
 ## Instagram
 
-[https://instagram.com/ipbes\_](https://instagram.com/ipbes_)  
+[https://instagram.com/ipbes\_](https://instagram.com/ipbes_)
 
 ## LinkedIn
 
@@ -36,3 +35,4 @@ https://facebook.com/ipbes
 ## Fax
 
 +49 \(0\) 228 815 0575
+

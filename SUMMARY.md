@@ -30,17 +30,17 @@
 ## Repositories
 
 * [GitHub](repositories/github.md)
-* [Bitbucket](repositories/untitled-1.md)
-* [Zenodo](repositories/untitled.md)
+* [Bitbucket](repositories/bitbucket.md)
+* [Zenodo](repositories/zenodo.md)
 
 ## Mailing and messaging
 
-* [Mailchimp](mailing-and-messaging/untitled.md)
+* [Mailchimp](mailing-and-messaging/mailchimp.md)
 * [Slack](mailing-and-messaging/slack.md)
 
 ## Bibliography
 
-* [Zotero](bibliography/untitled.md)
+* [Zotero](bibliography/zotero.md)
 
 ## Video/teleconferencing
 
