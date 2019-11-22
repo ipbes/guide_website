@@ -14,8 +14,6 @@ description: >-
 3. Have a functional web cam connected to your computer\*
 {% endhint %}
 
-## 
-
 ## Sign in and join a meeting
 
 1. Join a meeting by clicking the provided meeting link or going to [join.zoom.us](https://zoom.us/join) and enter the meeting ID then click join
