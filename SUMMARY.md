@@ -4,12 +4,12 @@
 
 ## Introduction
 
-* [Welcome](introduction/untitled.md)
-* [Best practices](best-practices.md)
+* [Welcome](introduction/welcome.md)
+* [Best practices](introduction/best-practices.md)
 
 ## Terms of use
 
-* [Data retention](data-retention.md)
+* [Data retention](terms-of-use/data-retention.md)
 
 ## Supported software and services
 
@@ -23,13 +23,13 @@
   * [Policy support gateway](supported-software-and-services/website/untitled.md)
   * [Catalogue of assessments](supported-software-and-services/website/catalogue-of-assessments.md)
   * [Contact](supported-software-and-services/website/contact.md)
-* [MS Teams](ms-teams.md)
-* [Slack](slack.md)
-* [Mailchimp](mailchimp.md)
-* [GoTo Meeting](goto-meeting.md)
-* [Zoom](zoom.md)
-* [Contact](contact.md)
-* [GitHub](github.md)
+* [MS Teams](supported-software-and-services/ms-teams.md)
+* [Slack](supported-software-and-services/slack.md)
+* [Mailchimp](supported-software-and-services/mailchimp.md)
+* [GoTo Meeting](supported-software-and-services/goto-meeting.md)
+* [Zoom](supported-software-and-services/zoom.md)
+* [Contact](supported-software-and-services/contact.md)
+* [GitHub](supported-software-and-services/github.md)
 
 ## Repositories
 
@@ -38,7 +38,7 @@
 ## Mailing and messaging
 
 * [Mailchimp](mailing-and-messaging/untitled.md)
-* [Untitled](untitled.md)
+* [Untitled](mailing-and-messaging/untitled-1.md)
 
 ## Bibliography
 
