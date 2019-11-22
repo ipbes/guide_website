@@ -11,19 +11,18 @@
 
 * [Data retention](terms-of-use/data-retention.md)
 
-## Supported software and services
+## Website
 
-* [Website](supported-software-and-services/website/README.md)
-  * [Terms and conditions of use](supported-software-and-services/website/terms-and-conditions-of-use.md)
-  * [Website navigation and basics](supported-software-and-services/website/website-navigation-and-basics.md)
-  * [Content creation](supported-software-and-services/website/content-creation.md)
-  * [Webforms](supported-software-and-services/website/webforms.md)
-  * [Website groups](supported-software-and-services/website/untitled-2.md)
-  * [IPBES Forum](supported-software-and-services/website/untitled-1.md)
-  * [Policy support gateway](supported-software-and-services/website/untitled.md)
-  * [Catalogue of assessments](supported-software-and-services/website/catalogue-of-assessments.md)
-  * [Contact](supported-software-and-services/website/contact.md)
-* [MS Teams](supported-software-and-services/ms-teams.md)
+* [Terms and conditions of use](website/terms-and-conditions-of-use.md)
+* [Website navigation and basics](website/website-navigation-and-basics.md)
+* [Content creation](website/content-creation/README.md)
+  * [Webforms](website/content-creation/webforms.md)
+* [Website groups](website/untitled-2.md)
+* [IPBES Forum](website/untitled-1.md)
+* [Policy support gateway](website/untitled.md)
+* [Catalogue of assessments](website/catalogue-of-assessments.md)
+* [Contact](website/contact.md)
+* [Website](website/website.md)
 
 ## Repositories
 
@@ -51,4 +50,9 @@
 * [About](ipbes/about.md)
 * [Contact](ipbes/contact/README.md)
   * [Technical support units](ipbes/contact/technical-support-units.md)
+
+## Collaboration
+
+* [Confluence](collaboration/confluence.md)
+* [MS Teams](collaboration/ms-teams.md)
 
