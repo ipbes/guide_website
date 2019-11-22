@@ -12,11 +12,12 @@
 ## Terms of use
 
 * [Data retention](terms-of-use/data-retention.md)
+* [General terms of use](terms-of-use/general-terms-of-use.md)
 
 ## Website
 
 * [Website](website/website.md)
-* [Terms and conditions of use](website/terms-and-conditions-of-use.md)
+* [Terms and conditions of use of website](website/terms-and-conditions-of-use.md)
 * [Website navigation and basics](website/website-navigation-and-basics.md)
 * [Content creation](website/content-creation.md)
 * [Webforms](website/webforms.md)

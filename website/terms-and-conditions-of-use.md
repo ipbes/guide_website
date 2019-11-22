@@ -1,8 +1,8 @@
-# Terms and conditions of use
+# Terms and conditions of use of website
 
 ## Terms and Conditions of Use
 
-The use of this web site constitutes agreement with the following terms and conditions:
+The use of the IPBES web site constitutes agreement with the following terms and conditions:
 
 The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services \(IPBES\) maintains this web site \(the “Site”\) as a courtesy to those who may choose to access the Site \(“Users”\). The information presented herein is for informative purposes only. IPBES grants permission to Users to visit the Site and to download and copy the information, documents and materials \(collectively, “Materials”\) from the Site for the User’s personal, non-commercial use, without any right to resell or redistribute them or to compile or create derivative works therefrom, subject to the terms and conditions outlined below, and also subject to more specific restrictions that may apply to specific Material within this Site.
 
