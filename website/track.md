@@ -6,7 +6,7 @@ description: Impact tracking database
 
 ## Submit 
 
-[https://ipbes.net/impact-tracking](https://ipbes.net/impact-tracking)
+Here is the link to the submission portal: [https://ipbes.net/impact-tracking](https://ipbes.net/impact-tracking)
 
 ## View
 
