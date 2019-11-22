@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome](README.md)
 
 ## Introduction
 
@@ -48,7 +48,7 @@
 
 ## IPBES
 
+* [About](ipbes/about.md)
 * [Contact](ipbes/contact/README.md)
   * [Technical support units](ipbes/contact/technical-support-units.md)
-* [About](ipbes/about.md)
 
