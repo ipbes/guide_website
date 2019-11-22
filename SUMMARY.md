@@ -24,23 +24,31 @@
   * [Catalogue of assessments](supported-software-and-services/website/catalogue-of-assessments.md)
   * [Contact](supported-software-and-services/website/contact.md)
 * [MS Teams](supported-software-and-services/ms-teams.md)
-* [Slack](supported-software-and-services/slack.md)
-* [Mailchimp](supported-software-and-services/mailchimp.md)
-* [GoTo Meeting](supported-software-and-services/goto-meeting.md)
-* [Zoom](supported-software-and-services/zoom.md)
-* [Contact](supported-software-and-services/contact.md)
-* [GitHub](supported-software-and-services/github.md)
 
 ## Repositories
 
+* [GitHub](repositories/github.md)
+* [Bitbucket](repositories/untitled-1.md)
 * [Zenodo](repositories/untitled.md)
 
 ## Mailing and messaging
 
 * [Mailchimp](mailing-and-messaging/untitled.md)
-* [Untitled](mailing-and-messaging/untitled-1.md)
+* [Slack](mailing-and-messaging/slack.md)
 
 ## Bibliography
 
 * [Zotero](bibliography/untitled.md)
+
+## Video/teleconferencing
+
+* [Zoom](video-teleconferencing/zoom.md)
+* [GoTo Meeting](video-teleconferencing/goto-meeting.md)
+* [MS Teams](video-teleconferencing/ms-teams.md)
+
+## IPBES
+
+* [Contact](ipbes/contact/README.md)
+  * [Technical support units](ipbes/contact/technical-support-units.md)
+* [About](ipbes/about.md)
 
