@@ -22,6 +22,8 @@ description: >-
 2. The meeting will be launched. You will be prompted to download the Zoom application. If you cannot download or run the application, you can start from the browser Click the URL of the Zoom room again Launch Zoom application from your browser.
 3. Select audio option \(computer/phone\) if prompted
 
+ You can also [join a test meeting](https://zoom.us/test) to familiarize yourself with Zoom.
+
 ### The Zoom Menu bar
 
 ![](../.gitbook/assets/image%20%281%29.png)
