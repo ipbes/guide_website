@@ -19,7 +19,9 @@ Participants can join a meeting by clicking the provided meeting link or by goin
 
 Before joining a Zoom meeting on a computer or mobile device, you can download the Zoom app from the [Zoom download center](https://zoom.us/download). Otherwise, you will be prompted to download and install Zoom when you click a join link. \([learn more](https://support.zoom.us/hc/en-us/articles/201362193-How-Do-I-Join-A-Meeting-)\). 
 
-### The Zoom Menu bar
+### Navigation
+
+#### The Zoom Menu bar
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
