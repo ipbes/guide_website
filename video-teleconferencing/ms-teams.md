@@ -1,2 +1,2 @@
-# MS Teams
+# Microsoft Teams
 

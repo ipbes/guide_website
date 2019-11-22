@@ -47,10 +47,10 @@
 
 * [Zoom](video-teleconferencing/zoom.md)
 * [GoTo Meeting](video-teleconferencing/goto-meeting.md)
-* [MS Teams](video-teleconferencing/ms-teams.md)
+* [Microsoft Teams](video-teleconferencing/ms-teams.md)
 
 ## Collaboration
 
 * [Confluence](collaboration/confluence.md)
-* [MS Teams](collaboration/ms-teams.md)
+* [Microsoft Teams](collaboration/ms-teams.md)
 
