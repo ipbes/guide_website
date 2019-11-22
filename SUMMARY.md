@@ -6,6 +6,8 @@
 
 * [Welcome](introduction/welcome.md)
 * [Best practices](introduction/best-practices.md)
+* [Getting help](introduction/contact/README.md)
+  * [Technical support units](introduction/contact/technical-support-units.md)
 
 ## Terms of use
 
@@ -50,10 +52,4 @@
 
 * [Confluence](collaboration/confluence.md)
 * [MS Teams](collaboration/ms-teams.md)
-
-## IPBES
-
-* [About](ipbes/about.md)
-* [Contact](ipbes/contact/README.md)
-  * [Technical support units](ipbes/contact/technical-support-units.md)
 
