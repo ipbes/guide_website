@@ -20,7 +20,6 @@
 * [Website](website/website.md)
 * [Terms and conditions of use of website](website/terms-and-conditions-of-use.md)
 * [Website navigation and basics](website/website-navigation-and-basics.md)
-* [Content creation](website/content-creation.md)
 * [Webforms](website/webforms.md)
 * [Website groups](website/website-groups.md)
 * [IPBES Forum](website/ipbes-forum.md)

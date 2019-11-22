@@ -1,25 +1,10 @@
 # Website
 
-## Getting Super Powers
-
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
+The website is located on [www.ipbes.net](www.ipbes.net)
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+ A user account is required to user various features of the website
 {% endhint %}
 
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-
+Once logged in, you will be able to create content on the website using forms that are made available on different parts of the website.
 
