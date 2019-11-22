@@ -1,13 +1,8 @@
----
-description: >-
-  Zoom is a video conferencing tool used for meetings and webinars. Meetings and
-  webinars can be attended via phone and computer. Meeting participants will
-  receive an event invitation via email.
----
-
 # Zoom
 
-## Getting started
+## Introduction
+
+Zoom is a video conferencing tool used for meetings and webinars. Meetings and webinars can be attended via phone and computer. Meeting participants will receive an event invitation via email. You can also [join a test meeting](https://zoom.us/test) to familiarize yourself with Zoom.
 
 {% hint style="info" %}
 **Prerequisites:**
@@ -16,13 +11,13 @@ description: >-
 2. The URL of the meeting or the meeting ID. If you are joining via telephone, you will need the [teleconferencing number](http://zoom.us/zoomconference) provided in the invite.
 {% endhint %}
 
-## Sign in and join a meeting \([learn more](https://support.zoom.us/hc/en-us/articles/201362193-How-Do-I-Join-A-Meeting-)\) 
+## Getting started
 
-1. Participants can join a meeting by clicking the provided meeting link or going to [join.zoom.us](https://zoom.us/join) and entering the meeting ID
-2. The meeting will be launched. You will be prompted to download the Zoom application. If you cannot download or run the application, you can start from the browser Click the URL of the Zoom room again Launch Zoom application from your browser.
-3. Select audio option \(computer/phone\) if prompted
+### Sign in and join a meeting 
 
- You can also [join a test meeting](https://zoom.us/test) to familiarize yourself with Zoom.
+Participants can join a meeting by clicking the provided meeting link or going to [join.zoom.us](https://zoom.us/join) and entering the meeting ID. 
+
+Before joining a Zoom meeting on a computer or mobile device, you can download the Zoom app from the [Zoom download center](https://zoom.us/download). Otherwise, you will be prompted to download and install Zoom when you click a join link. \([learn more](https://support.zoom.us/hc/en-us/articles/201362193-How-Do-I-Join-A-Meeting-)\). 
 
 ### The Zoom Menu bar
 
