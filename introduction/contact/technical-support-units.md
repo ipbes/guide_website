@@ -2,19 +2,47 @@
 
 ## Stakeholder engagement
 
-## Technical support unit on capacity-building \(Trondheim, Norway\)
+IUCN, Gland, Switzerland
 
-## Technical support unit on indigenous and local knowledge \(UNESCO, France\)
+## Technical support unit on capacity-building
 
-## Technical support unit for the global assessment \(headquarters in Bonn, Germany\)
+Trondheim, Norway
 
-## Technical support unit for the assessment of invasive alien species \(Tokyo, Japan\)
+## Technical support unit on indigenous and local knowledge
 
-## Technical support unit for the assessment of the sustainable use of wild species \(Paris and Montpellier, France\)
+UNESCO, Paris, France
 
-## Technical support unit on scenarios and models \(Bilthoven, The Netherlands\)
+## Technical support on data and knowledge
 
-## Technical support unit for the assessment on values \(Mexico City, Mexico\)
+### Knowledge generation catalysis unit
 
-## Technical support unit on policy support \(UNEP-WCMC, United Kingdom\)
+Biodiversa, Paris, France
+
+### Data unit
+
+Senckenberg, Frankfurt, Germany
+
+## Technical support unit for the global assessment
+
+Headquarters in Bonn, Germany
+
+## Technical support unit for the assessment of invasive alien species
+
+IGES, Tokyo, Japan
+
+## Technical support unit for the assessment of the sustainable use of wild species 
+
+FRB, Paris and Montpellier, France
+
+## Technical support unit on scenarios and models 
+
+PBL, Bilthoven, The Netherlands
+
+## Technical support unit for the assessment on values 
+
+UNAM, Mexico City, Mexico
+
+## Technical support unit on policy support 
+
+UNEP-WCMC, United Kingdom
 
