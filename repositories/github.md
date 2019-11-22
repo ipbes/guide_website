@@ -2,13 +2,17 @@
 
 ## Introduction
 
-Almost all text on GitHub is processed through a markup language called Markdown — it's an easy way to include simple formatting \(like italics, bold words, lists, and[ links](https://guides.github.com/features/mastering-markdown)\). This guide will show you the ins-and-outs of Markdown on GitHub.     \(More on Markdown here [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)\) 
+Almost all text on GitHub is processed through a markup language called Markdown — it's an easy way to include simple formatting \(like italics, bold words, lists, and[ links](https://guides.github.com/features/mastering-markdown)\). This guide will show you the ins-and-outs of Markdown on GitHub. \(More on Markdown here [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)\) 
 
 ## Getting started
 
 ### Creating an account
 
 ### Desktop application
+
+### Request creation of a repository
+
+Please fill in this form to request a repository to be created for you under the IPBES community. 
 
 ## Public vs Private repositories
 
