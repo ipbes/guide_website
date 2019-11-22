@@ -13,6 +13,7 @@
 
 ## Website
 
+* [Website](website/website.md)
 * [Terms and conditions of use](website/terms-and-conditions-of-use.md)
 * [Website navigation and basics](website/website-navigation-and-basics.md)
 * [Content creation](website/content-creation/README.md)
@@ -22,7 +23,6 @@
 * [Policy support gateway](website/untitled.md)
 * [Catalogue of assessments](website/catalogue-of-assessments.md)
 * [Contact](website/contact.md)
-* [Website](website/website.md)
 
 ## Repositories
 
@@ -45,14 +45,14 @@
 * [GoTo Meeting](video-teleconferencing/goto-meeting.md)
 * [MS Teams](video-teleconferencing/ms-teams.md)
 
+## Collaboration
+
+* [Confluence](collaboration/confluence.md)
+* [MS Teams](collaboration/ms-teams.md)
+
 ## IPBES
 
 * [About](ipbes/about.md)
 * [Contact](ipbes/contact/README.md)
   * [Technical support units](ipbes/contact/technical-support-units.md)
-
-## Collaboration
-
-* [Confluence](collaboration/confluence.md)
-* [MS Teams](collaboration/ms-teams.md)
 
