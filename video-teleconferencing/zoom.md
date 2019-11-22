@@ -16,7 +16,7 @@ description: >-
 2. The URL of the meeting or the meeting ID. If you are joining via telephone, you will need the [teleconferencing number](http://zoom.us/zoomconference) provided in the invite.
 {% endhint %}
 
-## Sign in and join a meeting 
+## Sign in and join a meeting \([learn more](https://support.zoom.us/hc/en-us/articles/201362193-How-Do-I-Join-A-Meeting-)\) 
 
 1. Participants can join a meeting by clicking the provided meeting link or going to [join.zoom.us](https://zoom.us/join) and entering the meeting ID
 2. The meeting will be launched. You will be prompted to download the Zoom application. If you cannot download or run the application, you can start from the browser Click the URL of the Zoom room again Launch Zoom application from your browser.
