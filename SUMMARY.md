@@ -16,8 +16,8 @@
 * [Website](website/website.md)
 * [Terms and conditions of use](website/terms-and-conditions-of-use.md)
 * [Website navigation and basics](website/website-navigation-and-basics.md)
-* [Content creation](website/content-creation/README.md)
-  * [Webforms](website/content-creation/webforms.md)
+* [Content creation](website/content-creation.md)
+* [Webforms](website/webforms.md)
 * [Website groups](website/untitled-2.md)
 * [IPBES Forum](website/untitled-1.md)
 * [Policy support gateway](website/untitled.md)
@@ -55,4 +55,5 @@
 * [About](ipbes/about.md)
 * [Contact](ipbes/contact/README.md)
   * [Technical support units](ipbes/contact/technical-support-units.md)
+* [TRACK](track.md)
 
