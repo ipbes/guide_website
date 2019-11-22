@@ -39,23 +39,3 @@ Once you have joined a meeting, the Zoom menu bar appears at the bottom of the Z
 6. Leave or end the meeting
 7. QA \(Webinar\)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
