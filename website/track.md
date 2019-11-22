@@ -6,17 +6,15 @@ description: Impact tracking database
 
 ## Submit 
 
-Here is a link to the submission portal:
+Here is a link to the TRACK submission portal: [https://ipbes.net/impact-tracking](https://ipbes.net/impact-tracking)
 
-{% page-ref page="track.md" %}
+
 
 
 
 ## View
 
-Here is a link to the IPBES Impact Tracking Database: 
-
-{% page-ref page="track.md" %}
+Here is a link to the IPBES Impact Tracking Database: [https://ipbes.net/impact-tracking-view](https://ipbes.net/impact-tracking-view)
 
 
 
