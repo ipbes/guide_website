@@ -4,15 +4,17 @@ description: docs.ipbes.net
 
 # IPBES user documentation
 
-## Why
+This repository holds the public user documentation for IPBES IT services and tools which is hosted on docs.ipbes.net
 
-Help IPBES stakeholders to navigate through IPBES IT services and tools
+### Tools
 
-## Author
+Our documentation site is built using [GitBook](https://github.com/GitbookIO/gitbook/), a Node.js static site generator especially focused on documentation. 
 
-IPBES secretariat 
+### Contributing
 
-You can help to improve this documentation by submitting your suggestions on GitHub using the "Edit on GitHub" links which are available at the top right hand side of each page.
+Our documentation is public because we want your help in improving and maintaining it. See our Contributing guidelines for guidelines on filing pull requests. All documentation is released under the Creative Commons Attribution license.
+
+If you spot a problem, send us a pull request to fix it! If you're not sure how, you can also file an issue and we'll try to get to it ourselves.
 
 
 
