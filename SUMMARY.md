@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [IPBES user documentation](README.md)
 
 ## Introduction
 
@@ -18,10 +18,10 @@
 * [Website navigation and basics](website/website-navigation-and-basics.md)
 * [Content creation](website/content-creation.md)
 * [Webforms](website/webforms.md)
-* [Website groups](website/untitled-2.md)
-* [IPBES Forum](website/untitled-1.md)
+* [Website groups](website/website-groups.md)
+* [IPBES Forum](website/ipbes-forum.md)
 * [TRACK](website/track.md)
-* [Policy support gateway](website/untitled.md)
+* [Policy support gateway](website/policy-support-gateway.md)
 * [Catalogue of assessments](website/catalogue-of-assessments.md)
 * [Contact](website/contact.md)
 
