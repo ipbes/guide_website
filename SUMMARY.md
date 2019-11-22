@@ -8,6 +8,7 @@
 * [Best practices](introduction/best-practices.md)
 * [Getting help](introduction/contact/README.md)
   * [Technical support units](introduction/contact/technical-support-units.md)
+* [Contributing to the IPBES user documentation](introduction/contributing-to-the-ipbes-user-documentation.md)
 
 ## Terms of use
 
