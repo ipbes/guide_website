@@ -31,8 +31,3 @@ Fax: +49 \(0\) 228 815 0575
 ## Zenodo
 
 [https://zenodo.org/communities/?p=ipbes ](https://zenodo.org/communities/?p=ipbes)
-
-## Fax
-
-
-
