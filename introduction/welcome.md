@@ -16,6 +16,8 @@ Platz der Vereinten Nationen 1,
 
 Germany.
 
+Fax: +49 \(0\) 228 815 0575
+
 [![twitter icon](http://i.imgur.com/tXSoThF.png)](https://twitter.com/IPBES) [![facebook icon](http://i.imgur.com/P3YfQoD.png)](https://facebook.com/ipbes) [![github icon](http://i.imgur.com/0o48UoR.png)](https://github.com/ipbes) 
 
 ## Instagram
@@ -32,5 +34,5 @@ Germany.
 
 ## Fax
 
-+49 \(0\) 228 815 0575
+
 
