@@ -8,5 +8,9 @@
 
 ## Curation
 
-## Contact 
+## Contact
+
+Need support? Contact support.ipbes@ipbes.net
+
+##  
 
