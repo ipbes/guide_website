@@ -5,6 +5,7 @@
 ## Introduction
 
 * [Welcome](introduction/welcome.md)
+* [Data Management Policy](introduction/data-management-policy.md)
 * [Best practices](introduction/best-practices.md)
 * [Getting help](introduction/contact/README.md)
   * [Technical support units](introduction/contact/technical-support-units.md)
@@ -39,9 +40,10 @@
 * [Mailchimp](mailing-and-messaging/mailchimp.md)
 * [Slack](mailing-and-messaging/slack.md)
 
-## Bibliography
+## Reference Manager <a id="bibliography"></a>
 
-* [Zotero](bibliography/zotero.md)
+* [Zotero](bibliography/zotero/README.md)
+  * [Reference collection](bibliography/zotero/reference-collection.md)
 
 ## Video/teleconferencing
 

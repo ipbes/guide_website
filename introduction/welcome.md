@@ -1,28 +1,3 @@
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon)
-[7.1]: http://i.imgur.com/0o48UoR.png (instagram icon)
-[8.1]: http://i.imgur.com/0o48UoR.png (linkedin icon)
-[9.1]: http://i.imgur.com/0o48UoR.png (zenodo icon)
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: https://twitter.com/IPBES
-[2]: https://facebook.com/ipbes
-[3]: #
-[4]: #
-[5]: #
-[6]: https://github.com/ipbes
-
-
 # Welcome
 
 The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services \(IPBES\) is an independent intergovernmental body, established by member States in 2012. It provides policymakers with objective scientific assessments about the state of knowledge regarding the planet’s biodiversity, ecosystems and the benefits they provide to people, as well as the tools and methods to protect and sustainably use these vital natural assets.
@@ -41,17 +16,7 @@ Platz der Vereinten Nationen 1,
 
 Germany.
 
-<!-- icons with padding -->
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][6.1]][6]
-<!-- 
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5] 
--->
-
+[![twitter icon](http://i.imgur.com/tXSoThF.png)](https://twitter.com/IPBES) [![facebook icon](http://i.imgur.com/P3YfQoD.png)](https://facebook.com/ipbes) [![github icon](http://i.imgur.com/0o48UoR.png)](https://github.com/ipbes) 
 
 ## Instagram
 
@@ -62,9 +27,8 @@ Germany.
 [https://linkedin.com/company/ipbes](https://linkedin.com/company/ipbes)
 
 ## Zenodo
-[https://zenodo.org/communities/?p=ipbes ](https://zenodo.org/communities/?p=ipbes) 
 
-
+[https://zenodo.org/communities/?p=ipbes ](https://zenodo.org/communities/?p=ipbes)
 
 ## Fax
 
