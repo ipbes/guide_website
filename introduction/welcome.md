@@ -8,6 +8,9 @@
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon)
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon)
+[7.1]: http://i.imgur.com/0o48UoR.png (instagram icon)
+[8.1]: http://i.imgur.com/0o48UoR.png (linkedin icon)
+[9.1]: http://i.imgur.com/0o48UoR.png (zenodo icon)
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
@@ -42,18 +45,13 @@ Germany.
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
+[![alt text][6.1]][6]
+<!-- 
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
+[![alt text][5.1]][5] 
+-->
 
-## Facebook
-
-[https://facebook.com/ipbes](https://facebook.com/ipbes)
-
-## Twitter
-
-[https://twitter.com/IPBES](https://twitter.com/IPBES)
 
 ## Instagram
 
@@ -66,8 +64,7 @@ Germany.
 ## Zenodo
 [https://zenodo.org/communities/?p=ipbes ](https://zenodo.org/communities/?p=ipbes) 
 
-## Github
-[https://github.com/ipbes](https://github.com/ipbes)
+
 
 ## Fax
 
