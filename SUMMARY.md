@@ -53,6 +53,6 @@
 
 ## Collaboration
 
-* [Confluence](collaboration/confluence.md)
 * [Microsoft Teams](collaboration/ms-teams.md)
+* [Confluence](collaboration/confluence.md)
 
