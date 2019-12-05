@@ -12,9 +12,7 @@ IPBES Secretariat
 
 Platz der Vereinten Nationen 1,
 
-53113 Bonn,
-
-Germany.
+53113 Bonn, Germany.
 
 Fax: +49 \(0\) 228 815 0575
 
@@ -26,7 +24,7 @@ Fax: +49 \(0\) 228 815 0575
 
 ## LinkedIn
 
-[https://linkedin.com/company/ipbes](https://linkedin.com/company/ipbes)
+https://linkedin.com/company/ipbes
 
 ## Zenodo
 
