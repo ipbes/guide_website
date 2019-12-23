@@ -12,7 +12,17 @@ Teams are made up of **channels**, which are the conversations you have with you
 
 ### Quick start guide
 
-{% file src="../.gitbook/assets/teams-qs \(1\).pdf" caption="MS teams quick Start Guide" %}
+{% tabs %}
+{% tab title="Quick Start Guide" %}
+Click the link below to download the pdf
+
+{% file src="../.gitbook/assets/teams-qs \(2\).pdf" caption="MS teams quick Start Guide" %}
+{% endtab %}
+
+{% tab title="Video: Welcome to Microsoft Teams" %}
+Click [here](https://www.microsoft.com/en-gb/videoplayer/embed/RWeqWC?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=en-gb) to watch the welcome video
+{% endtab %}
+{% endtabs %}
 
 ## Sign in to Teams
 
