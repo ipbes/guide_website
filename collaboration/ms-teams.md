@@ -22,7 +22,7 @@ The hub for teamwork, is where people - including people outside your organizati
 * On Mac, go to the **Applications** folder and click **Microsoft Teams**.
 * On mobile, tap the **Teams** icon.
 
-1. Sign in with your Office 365 username and password.
+2. Sign in with your Office 365 username and password.
 
 ## **Pick a team and channel**
 
