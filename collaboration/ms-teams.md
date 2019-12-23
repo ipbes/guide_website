@@ -14,11 +14,17 @@ The hub for teamwork, is where people - including people outside your organizati
 
 {% file src="../.gitbook/assets/teams-qs \(1\).pdf" caption="MS teams quick Start Guide" %}
 
-## Conversation
+## Sign in to Teams
 
-## Work with files
+1. **Start Teams**
 
-## Notes
+* In Windows, click **Start** ![Start button](https://support.content.office.net/en-us/media/e7dda90f-7dd2-4c7b-ad9e-1ca9888f8c90.png) &gt; **Microsoft Teams**.
+* On Mac, go to the **Applications** folder and click **Microsoft Teams**.
+* On mobile, tap the **Teams** icon.
+
+1. Sign in with your Office 365 username and password.
+
+## **Pick a team and channel**
 
 
 
