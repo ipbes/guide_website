@@ -27,6 +27,7 @@ Sign in with your Office 365 username and password.
 ![](../.gitbook/assets/image%20%283%29.png)
 
 ## **Pick a team and channel**
+1. 
 
 \*\*\*\*
 
