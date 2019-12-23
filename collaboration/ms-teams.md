@@ -55,7 +55,7 @@ _A team_ is a collection of people, conversations, files, and tools — all in o
 3. Select to build a team from scratch or build from an existing office 365 group or team
 4. Enter the name and short description for your new team
 
-### Adding people to a team
+### Add people to a team
 
 1. In the Create team prompt, enter a team member’s name and find them in the list.
 2. Click Done
