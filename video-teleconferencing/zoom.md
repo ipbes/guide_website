@@ -27,7 +27,7 @@ Before joining a Zoom meeting on a computer or mobile device, you can download t
 
 #### The Zoom Menu bar
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 Once you have joined a meeting, the Zoom menu bar appears at the bottom of the Zoom window. You can perform the following actions from the menu bar:
 
