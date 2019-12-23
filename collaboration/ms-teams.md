@@ -24,10 +24,13 @@ Start Teams
 
 Sign in with your Office 365 username and password.
 
-![](../.gitbook/assets/image%20%283%29.png)
-
 ## **Pick a team and channel**
-1. 
 
-\*\*\*\*
+_A team_ is a collection of people, conversations, files, and tools — all in one place. _A channel_ is a discussion in a team, dedicated to a department, project, or topic.
+
+1. Select **Teams** ![Teams button](https://support.content.office.net/en-us/media/20305b5c-df47-4154-a21a-b12712c4224c.png) on the left side of the app and then pick a team.
+
+   If you're not on a team and want to create one, see [Onboard your teams](https://support.office.com/en-gb/article/video-get-your-team-up-and-running-702a2977-e662-4038-bef5-bdf8ee47b17b?wt.mc_id=otc_sixsteps).
+
+2. Select a channel and explore the **Conversations**, **Files**, and other tabs.
 
