@@ -53,7 +53,6 @@
 
 ## Collaboration
 
-* [Microsoft Teams](collaboration/ms-teams/README.md)
-  * [Untitled](collaboration/ms-teams/untitled.md)
+* [Microsoft Teams](collaboration/ms-teams.md)
 * [Confluence](collaboration/confluence.md)
 
