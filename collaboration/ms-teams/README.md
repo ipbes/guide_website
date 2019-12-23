@@ -10,23 +10,23 @@ A **team** is a group of people gathered to get something big done in your organ
 
 Teams are made up of **channels**, which are the conversations you have with your teammates. Each channel is dedicated to a specific topic, department, or project.
 
-## Quick start guide
+### Quick start guide
 
 {% file src="../../.gitbook/assets/teams-qs \(1\).pdf" caption="MS teams quick Start Guide" %}
 
 ## Sign in to Teams
 
-Start Teams
+### How to sign in
 
-* In Windows, click **Start** ![Start button](https://support.content.office.net/en-us/media/e7dda90f-7dd2-4c7b-ad9e-1ca9888f8c90.png) &gt; **Microsoft Teams**.
-* On Mac, go to the **Applications** folder and click **Microsoft Teams**.
-* On mobile, tap the **Teams** icon.
-
-Sign in with your Office 365 username and password.
+1. Start Teams
+   1. In Windows, click **Start** ![Start button](https://support.content.office.net/en-us/media/e7dda90f-7dd2-4c7b-ad9e-1ca9888f8c90.png) &gt; **Microsoft Teams**.
+   2. On Mac, go to the **Applications** folder and click **Microsoft Teams**.
+   3. On mobile, tap the **Teams** icon2. 
+2. Sign in with your Office 365 username and password.
 
 ![](../../.gitbook/assets/image%20%286%29.png)
 
-## **Pick a team and channel**
+### **Pick a team and channel**
 
 _A team_ is a collection of people, conversations, files, and tools — all in one place. _A channel_ is a discussion in a team, dedicated to a department, project, or topic.
 
@@ -37,4 +37,18 @@ _A team_ is a collection of people, conversations, files, and tools — all in o
 2. Select a channel and explore the **Conversations**, **Files**, and other tabs.
 
 ![](../../.gitbook/assets/image%20%285%29.png)
+
+## Teams and Channels
+
+### Create a team
+
+### Adding people to a team
+
+### create channel for the team
+
+
+
+
+
+
 
