@@ -8,17 +8,21 @@ description: Please contact ipbes.support@ipbes.net if you have any questions
 
 &lt;Placeholder&gt;
 
-### Quick start guide
+### Important links
 
 {% tabs %}
-{% tab title="Quick Start Guide" %}
+{% tab title="Quick Start Guide \(pdf\)" %}
 Click the link below to download the pdf
 
 {% file src="../.gitbook/assets/teams-qs \(2\).pdf" caption="MS teams quick Start Guide" %}
 {% endtab %}
 
-{% tab title="Video: Welcome to Microsoft Teams" %}
+{% tab title="Welcome to Microsoft Teams \(video\)" %}
 Click [here](https://www.microsoft.com/en-gb/videoplayer/embed/RWeqWC?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=en-gb) to watch the welcome video
+{% endtab %}
+
+{% tab title="Microsoft Teams video training \(videos\)" %}
+[Microsoft Teams video training](https://support.office.com/en-gb/article/microsoft-teams-video-training-4f108e54-240b-4351-8084-b1089f0d21d7)
 {% endtab %}
 {% endtabs %}
 
@@ -94,6 +98,62 @@ By default, every team gets a **General** channel, which is a good channel to us
 More information [here](https://support.office.com/en-gb/article/share-content-in-a-meeting-in-teams-fcc2bf59-aecd-4481-8f99-ce55dd836ce8)
 
 ## Chat
+
+### Start Chat
+
+You start one-on-one and group chats the same way: by selecting **New chat** ![New chat icon](https://support.content.office.net/en-us/media/50177cc7-a47b-41dd-b1a3-f0ba94ed9125.png) at the top of your chat list.
+
+#### Start a one-on-one chat
+
+Once you've selected **New chat** ![New chat icon in Teams](https://support.content.office.net/en-us/media/d7854e6f-cba6-4045-8820-2a07130394d0.png) and entered the person’s name, compose your message in the box at the bottom of the chat. To open your [formatting options](https://support.office.com/en-gb/article/format-a-message-in-teams-9f7c64e4-0316-472f-b1e8-430cebcfc1e5), select **Format**  ![Expand button](https://support.content.office.net/en-us/media/39818b5e-d559-4213-968c-2f6ac0180f16.png) beneath the box where you type your message.
+
+![Select Format to expand the box.](https://support.content.office.net/en-us/media/4061a793-312b-44be-8565-2d7f68baaf49.png)
+
+When you're ready, select Send ![Send a message icon.](https://support.content.office.net/en-us/media/02edfc47-f927-48d8-bd7b-dc684e20e1f4.png) . This starts the chat.
+
+You can also start a one-on-one chat from someone's profile card. Open it by clicking their picture in a channel or from a search.
+
+#### Start and name a group chat
+
+Start one the same way you start a one-on-one chat: select **New chat** ![New chat icon in Teams](https://support.content.office.net/en-us/media/97898dea-2d79-422f-ac6c-17f78f837f60.png) at the top of your chat list. Select the down arrow to the far right of the **To** field and type a name for the chat in the **Group name** field. Then, type the names of the people you’d like to add in the **To** field.
+
+![Name a group chat in Teams.](https://support.content.office.net/en-us/media/2b1e7f6c-2d49-43ef-aa53-b2074c4fbb5d.png)
+
+This starts a new conversation. Everyone who has access to the group chat can [send messages](https://support.office.com/en-gb/article/send-and-read-messages-in-teams-b29e60ec-76af-4d97-8c3c-a4e36f2b64aa).
+
+You can include up to 100 people in a group chat. 
+
+#### Add people to the conversation
+
+To loop more people into the conversation, just click **Add people** ![Add people to team button](https://support.content.office.net/en-us/media/c84aa0b9-6f19-40ba-8e5d-53df1b072cb9.png) \(or **View and add participants** in group chat\) in the top right corner of Teams. Then, type the names of the people you'd like to chat with, select how much of the chat history to include, and click **Add**. 
+
+**Note:** When adding someone to a group chat \(not a one-on-one\), you can include the chat history. 
+
+![Chat history in Teams](https://support.content.office.net/en-us/media/2f0b0e65-1e64-4a9e-89cd-39e4f691ea2b.png)
+
+Teams will save the whole chat history, all the way back to the first message. And if someone [leaves the group](https://support.office.com/en-gb/article/leave-or-remove-someone-from-a-group-chat-7db55a67-0ba4-4409-a399-5ed502a1d094), their chat responses are still there in your chat history.
+
+#### See who's in a group chat
+
+To see who’s in a group chat, hover over the number of participants in the chat header to show a list of everyone’s names.
+
+![Participants list in a chat header](https://support.content.office.net/en-us/media/e399d02d-539f-4799-a140-3396a7941ff9.png)
+
+### Send and read
+
+### Group Chats
+
+### Find and filter
+
+
+
+
+
+
+
+
+
+
 
 
 
