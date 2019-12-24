@@ -48,9 +48,9 @@
 
 ## Video/teleconferencing
 
+* [Microsoft Teams Meetings and Calls](video-teleconferencing/ms-teams.md)
 * [Zoom](video-teleconferencing/zoom.md)
 * [GoTo Meeting](video-teleconferencing/goto-meeting.md)
-* [Microsoft Teams](video-teleconferencing/ms-teams.md)
 
 ## Collaboration
 

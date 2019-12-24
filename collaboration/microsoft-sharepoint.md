@@ -10,9 +10,11 @@
 {% endtab %}
 {% endtabs %}
 
-### **Checking documents in and out of SharePoint**
+## Collaborative working
 
-### **Checking documents in and out of SharePoint** 
+### \*\*\*\*
+
+### **Sharing files**
 
 
 
