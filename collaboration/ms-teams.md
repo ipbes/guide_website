@@ -62,7 +62,7 @@ _A team_ is a collection of people, conversations, files, and tools — all in o
 
 ### Create channel for the team
 
-1. Select the row of dots \(\*\*\*\) next to the team name
+1. Select the row of dots \(**...**\) next to the team name
 2. Select _Add channel_
 3. Enter a name and a description for your channel, select between a [private](https://docs.microsoft.com/en-us/microsoftteams/private-channels) or public channel
 4. Select Add

@@ -18,7 +18,8 @@
 
 ## Website
 
-* [Website](website/website.md)
+* [Website](website/website/README.md)
+  * [Frequently Asked Questions \(FAQ\)](website/website/frequently-asked-questions-faq.md)
 * [Terms and conditions of use of website](website/terms-and-conditions-of-use.md)
 * [Website navigation and basics](website/website-navigation-and-basics.md)
 * [Webforms](website/webforms.md)
@@ -54,5 +55,6 @@
 ## Collaboration
 
 * [Microsoft Teams](collaboration/ms-teams.md)
+* [Microsoft SharePoint](collaboration/microsoft-sharepoint.md)
 * [Confluence](collaboration/confluence.md)
 
