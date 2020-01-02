@@ -10,8 +10,8 @@ Meetings can either be set up through the Microsoft Teams App or Outlook
 
 1. There are several ways to schedule a meeting:
 
-   * Select **Schedule a meeting** ![Schedule a meeting button](https://support.content.office.net/en-us/media/fd1b3652-61b7-4822-b631-cf71577a241a.png) in a chat \(this is below the compose box\) to book a meeting with the people in the chat.
-   * Or go to **Calendar** ![Meetings button](https://support.content.office.net/en-us/media/f788fe72-7168-45df-98c8-58ceac0a9aac.png) on the left side of the app and either select **New meeting** at the top right of the app, or select a range of time in your calendar and it will pop open a scheduling form.
+   * Select **Schedule a meeting** ![Schedule a meeting button](https://support.content.office.net/en-us/media/fd1b3652-61b7-4822-b631-cf71577a241a.png)in a chat \(this is below the compose box\) to book a meeting with the people in the chat.
+   * Or go to **Calendar** ![Meetings button](https://support.content.office.net/en-us/media/f788fe72-7168-45df-98c8-58ceac0a9aac.png)on the left side of the app and either select **New meeting** at the top right of the app, or select a range of time in your calendar and it will pop open a scheduling form.
 
    Similar to Outlook, in the scheduling form is where you'll give a title to your meeting, invite people, and add meetings details.
 
@@ -26,8 +26,6 @@ You can join Teams meetings anytime, anywhere, from any device.
 #### Join by link
 
 All you need to join a Teams meeting is a link.
-
-![A hyperlink with text reading &quot;Join Microsoft Teams Meeting&quot;](https://support.content.office.net/en-us/media/b2df7d93-82d7-462b-8dea-ef80fecbdc80.png)
 
 When you open the link or select **Join Microsoft Teams Meeting** in your meeting invite, you’ll be directed to a page where you can choose to either join on the web or download the desktop app and then join. If you already have the Teams app, the meeting will open there automatically.
 
@@ -53,23 +51,11 @@ Or, if someone starts the meeting, you'll get a notification you can use to join
 
 If a meeting takes place in a channel, you’ll see an invitation to join, relevant content, and who’s in the meeting right in the channel. Just select **Join**.
 
-![A meeting in a channel with a Join button](https://support.content.office.net/en-us/media/18ea9fc8-979d-4f30-95c0-998b4ca3eaca.png)
-
 #### Join from chat
 
 If the meeting has already begun, it appears in your recent chat list. Select the meeting in your chat list and then select **Join** at the top of the chat.
 
 ![A meeting chat with a Join button in the header](https://support.content.office.net/en-us/media/9082875f-6aa6-4080-bf74-9670761f8ecd.png)
-
-#### Add a room while you join
-
-When you’re choosing your audio and video settings, you have the option to add a room so you can use a meeting room’s audio and video devices. Your personal device may even detect a nearby room using Bluetooth. If it does, you’ll see the meeting room’s name and the option to **Join and add this room**. If the nearby room has already joined the meeting, you can **Join with audio off** to avoid disrupting the meeting.
-
-![On the join screen, Other join options has a pop-up that Team Room Redmond is nearby with the option to Join and add this room](https://support.content.office.net/en-us/media/8e93c15b-3c73-43ac-a51b-fe793e4053ce.png)
-
-If your device doesn’t detect the room nearby, select **Add a room** under **Other join options** and search for the room you’re using.
-
-![On the join screen under Other join options, there&apos;s an option to Add a room](https://support.content.office.net/en-us/media/2193afae-96a0-4260-b578-27239309114f.png)
 
 ### Join a meeting without a Teams account
 
