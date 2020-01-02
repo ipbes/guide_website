@@ -37,7 +37,7 @@ The User acknowledges that all Forums and discussion groups are public and not p
 
 ## IPBES Web Privacy Policy
 
-This privacy statement describes IPBES policy concerning the gathering and sharing of visitors’ information through www.ipbes.net website. By visiting this website, you are accepting the practices described in this policy.  
+This privacy statement describes IPBES policy concerning the gathering and sharing of visitors’ information through [www.ipbes.net](www.ipbes.net) website. By visiting this website, you are accepting the practices described in this policy.  
 
 
 ## Preservation of immunities
