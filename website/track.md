@@ -8,7 +8,7 @@ description: Impact tracking database
 
 Here is a link to the TRACK submission portal: [https://ipbes.net/impact-tracking](https://ipbes.net/impact-tracking)
 
-
+&lt;Screenshot of TRACK&gt;
 
 
 
