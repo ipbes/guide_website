@@ -86,7 +86,7 @@ You can enlarge text on your browser itself. Hold down the ‘control’ \(Ctrl\
 
 ## Contact
 
-If you have any questions or require support please contact: Daniela Guaras
+If you have any questions or require support please contact: Daniela Guaras \([Daniela.Guaras@unep-wcmc.org](mailto:Daniela.Guaras@unep-wcmc.org)\) 
 
 
 
