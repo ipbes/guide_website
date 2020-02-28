@@ -6,7 +6,7 @@
 * [Account](website/account.md)
 
 ## Navigation
-* [Website navigation and basics](website/navigation.md)
+* [Website navigation and basics](website/navigation-search.md)
 
 ## Forms
 * [Webforms](website/webforms.md)
