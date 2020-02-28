@@ -1,7 +1,7 @@
 ## Website account set up and access
 
 {% hint style="info" %}
- A user account is required to user various features of the website
+ A user account is required to use various features of the website
 {% endhint %}
 
 An account can be created by visiting [https://www.ipbes.net/user/register](https://www.ipbes.net/user/register) and entering required information. The following information is requested at the time of registration: username, email address, salutation, first name, middle name, last name, job title, affiliation, about, mailing list subscription, and security question. Once accounts are created, users can login to provide additional information. Account verification can take up to 24-48 hours.

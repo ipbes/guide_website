@@ -19,5 +19,9 @@
 * [TRACK](website/track.md)
 * [Policy support gateway](website/policy-support-gateway.md)
 
+## Content management
+* [Content creation](website/admin-content-create.md)
+* [Content management](website/admin-content-manage.md)
+
 ## Contact
 * [Contact](website/contact.md)
