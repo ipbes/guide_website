@@ -1,4 +1,0 @@
-# GoTo Meeting
-
-## Introduction
-
