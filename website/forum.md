@@ -1,7 +1,6 @@
 # IPBES Forum
 
-the IPBES forum
-
+The IPBES forum
 
 
 ## Participate in a forum
@@ -14,11 +13,11 @@ the IPBES forum
 
 ### **Stay On-topic**
 
-Be sure your comment matches the general theme of the page you are viewing. 
+Be sure your comment matches the general theme of the page you are viewing.
 
 ### **Keep it civil**
 
-Insults, personal attacks and harassment will not be tolerated. Sexist, racist, tribal, misogynist, homophobic, and broad, offensive generalizations about groups of people are simply not allowed. Comments that we find to be hateful, inflammatory, or harassing will be removed. If you don’t have something nice to say about another user, don't say it. 
+Insults, personal attacks and harassment will not be tolerated. Sexist, racist, tribal, misogynist, homophobic, and broad, offensive generalizations about groups of people are simply not allowed. Comments that we find to be hateful, inflammatory, or harassing will be removed. If you don’t have something nice to say about another user, don't say it.
 
 ### **Always strive to add value to every interaction and discussion you participate in**
 
@@ -31,7 +30,7 @@ Help make moderators’ lives easier by taking a moment to ensure that what you�
 * don’t post off-topic comments or discussions
 * don’t cross-post the same thing multiple times
 * check if another active discussion on your topic has already been posted
-* TRY NOT TO USE all caps. 
+* TRY NOT TO USE all caps.
 
 ### **If you see something, say something**
 
@@ -48,4 +47,3 @@ Plagiarism is bad. Don't do it.
 ### **English only**
 
 We currently only support English discussions. Non-English comments and discussions will be removed.
-
