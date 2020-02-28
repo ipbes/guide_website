@@ -12,11 +12,6 @@ description: Application form
 
 ## View and edit an existing form
 
-1. Login to your your web [profile](https://ipbes.net/user) 
+1. Login to your your web [profile](https://ipbes.net/user)
 2. Navigate to Application forms
 3. Select the form to edit
-
-
-
-## 
-
