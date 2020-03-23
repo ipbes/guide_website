@@ -3,25 +3,33 @@
 * [IPBES user documentation](README.md)
 
 ## Account
-* [Account](website/account.md)
+
+* [Account](account/account.md)
 
 ## Navigation
-* [Website navigation and search](website/navigation-search.md)
+
+* [Website navigation and search](navigation/navigation-search.md)
 
 ## Forms
-* [Webforms](website/webforms.md)
+
+* [Webforms](forms/webforms.md)
 
 ## Groups
-* [Website groups](website/groups.md)
+
+* [Website groups](groups/groups.md)
 
 ## Services
-* [IPBES Forum](website/forum.md)
-* [TRACK](website/track.md)
-* [Policy support gateway](website/policy-support-gateway.md)
+
+* [IPBES Forum](services/forum.md)
+* [TRACK](services/track.md)
+* [Policy support gateway](services/policy-support-gateway.md)
 
 ## Content management
-* [Content creation](website/admin-content-create.md)
-* [Content management](website/admin-content-manage.md)
+
+* [Content creation](content-management/admin-content-create.md)
+* [Content management](content-management/admin-content-manage.md)
 
 ## Contact
-* [Contact](website/contact.md)
+
+* [Contact](contact/contact.md)
+

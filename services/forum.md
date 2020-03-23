@@ -2,7 +2,6 @@
 
 The IPBES forum
 
-
 ## Participate in a forum
 
 `You will need a user account to participate in a forum`
@@ -47,3 +46,4 @@ Plagiarism is bad. Don't do it.
 ### **English only**
 
 We currently only support English discussions. Non-English comments and discussions will be removed.
+

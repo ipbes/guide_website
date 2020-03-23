@@ -7,3 +7,4 @@ IT/Technical support: [Create a support ticket](https://ipbessecretariat.atlassi
 Registration/Application: [ipbes.registration@ipbes.net](mailto:%20ipbes.registration@ipbes.net)
 
 Media and communication: [media@ipbes.net](mailto:%20media@ipbes.net)
+
