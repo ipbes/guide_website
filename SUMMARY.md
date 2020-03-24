@@ -4,11 +4,12 @@
 
 ## Account
 
-* [Account](account/account.md)
+* [Account](website/account.md)
 
 ## Navigation and search
 
-* [Website navigation](website/navigation.md)
+* [Navigation on desktop](website/navigation_desktop.md)
+* [Navigation on mobile](website/navigation_mobile.md)
 * [Search](website/search.md)
 
 ## Forms
@@ -32,5 +33,5 @@
 
 ## Contact
 
-* [Contact](contact/contact.md)
+* [Contact](website/contact.md)
 

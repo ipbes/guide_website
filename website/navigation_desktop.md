@@ -1,4 +1,4 @@
-# Website navigation and search
+# Navigation
 
 ## Main menu
 
