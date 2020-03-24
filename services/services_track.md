@@ -17,7 +17,9 @@ Here is a link to the TRACK submission portal: [https://ipbes.net/impact-trackin
 
 ## View
 
-Here is a link to the IPBES Impact Tracking Database: [https://ipbes.net/impact-tracking-view](https://ipbes.net/impact-tracking-view)
+The IPBES impact tracking database \(TRACK\) is available on [https://ipbes.net/impact-tracking-view](https://ipbes.net/impact-tracking-view)
+
+![](../.gitbook/assets/track_page_3.jpg)
 
 ## Contact
 
