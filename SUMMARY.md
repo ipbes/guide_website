@@ -6,17 +6,18 @@
 
 * [Account](account/account.md)
 
-## Navigation
+## Navigation and search
 
-* [Website navigation and search](navigation/navigation-search.md)
+* [Website navigation](website/navigation.md)
+* [Search](website/search.md)
 
 ## Forms
 
-* [Webforms](forms/webforms.md)
+* [Webforms](website/webforms.md)
 
 ## Groups
 
-* [Website groups](groups/groups.md)
+* [Website groups](website/groups.md)
 
 ## Services
 
@@ -26,8 +27,8 @@
 
 ## Content management
 
-* [Content creation](content-management/admin-content-create.md)
-* [Content management](content-management/admin-content-manage.md)
+* [Content creation](website/admin-content-create.md)
+* [Content management](website/admin-content-manage.md)
 
 ## Contact
 
