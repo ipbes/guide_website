@@ -1,5 +1,8 @@
 ---
-description: Impact tracking database
+description: >-
+  The purpose of TRACK is to record, document and share examples of the use of
+  IPBES outputs, such as the IPBES assessment reports, in decision-making or in
+  science.
 ---
 
 # TRACK
@@ -8,7 +11,9 @@ description: Impact tracking database
 
 Here is a link to the TRACK submission portal: [https://ipbes.net/impact-tracking](https://ipbes.net/impact-tracking)
 
-&lt;Screenshot of TRACK&gt;
+![](../.gitbook/assets/track_page.jpg)
+
+![TRACK submission form and submit button](../.gitbook/assets/track_page_1.jpg)
 
 ## View
 
