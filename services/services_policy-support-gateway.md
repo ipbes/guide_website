@@ -64,7 +64,7 @@ policy instruments policy support tools case studies – only if they are linked
 
 Case studies are past or ongoing projects that illustrate the use of relevant tools and/or instruments. What are learning opportunities?
 
-Learning opportunities are means to help build the knowledge and skills necessary for the application of relevant tools and instruments. E.g. in-person and online training, massive open online courses \(MOOCs\), webinars. 
+Learning opportunities are means to help build the knowledge and skills necessary for the application of relevant tools and instruments. E.g. in-person and online training, massive open online courses \(MOOCs\), webinars.
 
 ### How do I upload a resource to the Catalogue?
 
@@ -86,7 +86,5 @@ You can enlarge text on your browser itself. Hold down the ‘control’ \(Ctrl\
 
 ## Contact
 
-If you have any questions or require support please contact: Daniela Guaras \([Daniela.Guaras@unep-wcmc.org](mailto:Daniela.Guaras@unep-wcmc.org)\) 
-
-
+If you have any questions or require support please contact: Daniela Guaras \([Daniela.Guaras@unep-wcmc.org](mailto:Daniela.Guaras@unep-wcmc.org)\)
 

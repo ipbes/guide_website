@@ -5,7 +5,7 @@ Search using keywords that will retrieve results containing one or more of the k
 * Widen search: add OR to your keyword searches to ensure that you retrieve all possible results around one topic
 * Spelling: In order to increase your chances of finding the correct results, try using different spellings. For example, when looking for St Mark’s Venice, also try searching SAN MARCO.
 
-  Key words:  Try using fewer keywords in your searches; the fewer keywords used, the broader the selection of results.
+  Key words: Try using fewer keywords in your searches; the fewer keywords used, the broader the selection of results.
 
   Boolean search: Boolean Search
 
