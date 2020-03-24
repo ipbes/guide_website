@@ -20,9 +20,9 @@
 
 ## Services
 
-* [IPBES Forum](services_forum.md)
-* [TRACK](services_track.md)
-* [Policy support gateway](services_policy-support-gateway.md)
+* [IPBES Forum](website/services_forum.md)
+* [TRACK](website/services_track.md)
+* [Policy support gateway](website/services_policy-support-gateway.md)
 
 ## Content management
 
