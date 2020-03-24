@@ -14,7 +14,13 @@ Search using keywords that will retrieve results containing one or more of the k
 
 ## Expert search
 
-* [Expert search](https://ipbes.net/experts)
+The expert search page is available on [https://ipbes.net/experts](https://ipbes.net/experts)
+
+![Click on &quot;About&quot; and then select &quot;Experts&quot;](../.gitbook/assets/experts_1.jpg)
+
+![Experts search page](../.gitbook/assets/experts_2.jpg)
+
+![Search for experts by name, nationality, deliverable or nominating government](../.gitbook/assets/experts_3.jpg)
 
 ## Documents search
 
