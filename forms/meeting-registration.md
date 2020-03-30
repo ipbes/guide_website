@@ -7,7 +7,7 @@ Check your email to find the meeting registration link for example [https://ipbe
 ### Register for the meeting
 
 {% hint style="info" %}
- You need to be logged in to register for a meeting
+ You need to be logged in to register for a meeting. See here for more details on how to register and log in to your account: [https://docs.ipbes.net/account/account](https://docs.ipbes.net/account/account) 
 {% endhint %}
 
 Scroll down to view the meeting registration form.
