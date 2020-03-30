@@ -15,6 +15,7 @@
 ## Forms
 
 * [Webforms](forms/webforms.md)
+* [Meeting registration](forms/meeting-registration.md)
 
 ## Groups
 
