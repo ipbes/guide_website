@@ -39,7 +39,7 @@ Once logged in, you’ll see your most recent content, your profile details, and
 
 ![Click on &quot;My account&quot; to access your profile](../.gitbook/assets/account_myaccount.jpg)
 
-* **Account:** You can change the details of your account including: Your username. The email address linked to your account and how you will be contacted. Your password \(you can also request a new password if you’ve lost or forgotten it\). Additional information about you in the About section and your timezone. Your profile image. You can also see which Groups you belong to and delete your account by clicking the Cancel account button.
+Click on **Account** to expand and view or quickly change the details of your account including: Your username. The email address linked to your account and how you will be contacted. Your password \(you can also request a new password if you’ve lost or forgotten it\). Additional information about you in the About section and your timezone. Your profile image. You can also see which Groups you belong to and delete your account by clicking the Cancel account button.
 
-When you’re done adding and editing content on the site, you’ll want to make sure you log out to avoid security risks. You can log out from anywhere on the site by using either of the buttons shown in the picture below. Once you log out, you’ll be taken back to the Home page of the site.
+When you’re done adding and editing content on the site, you’ll want to make sure you log out to avoid security risks. Once you log out, you’ll be taken back to the Home page of the site.
 
