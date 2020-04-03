@@ -37,7 +37,7 @@ You need to be logged in to view or update your profile. See previous section on
 
 Once logged in, you’ll see your most recent content, your profile details, and your profile image.
 
-![Click on &quot;My Account&quot; to access your user profile](../.gitbook/assets/ipbes_account_section.jpg)
+![](../.gitbook/assets/ipbes_account_section.jpg)
 
 Click on **Account** to expand and view or quickly change the details of your account including: Your username. The email address linked to your account and how you will be contacted. Your password \(you can also request a new password if you’ve lost or forgotten it\). Additional information about you in the About section and your timezone. Your profile image. You can also see which Groups you belong to and delete your account by clicking the Cancel account button.
 
