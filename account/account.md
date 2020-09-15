@@ -17,11 +17,21 @@ All registered users have a user dashboard which can be accessed after logging i
 
 ![](../.gitbook/assets/account_create.jpg)
 
+### Networking and subscriptions
+
+Subscribe to the IPBES mailing list to stay updated. Note that you can unsubscribe any time by clicking the unsubscribe link in the notifications or by logging in to your profile and unchecking the box below.
+
+![](../.gitbook/assets/image%20%289%29.png)
+
 ### Login/logout
 
 To access the IPBES website as an authenticated user you need to log in by either typing the URL in the web address bar or following this link: [https://ipbes.net/user/login](https://ipbes.net/user/login). Enter your username and password and click login
 
 ![Log in to your account using your unique username and password](../.gitbook/assets/account_login.jpg)
+
+
+
+
 
 ## Getting your login information
 
